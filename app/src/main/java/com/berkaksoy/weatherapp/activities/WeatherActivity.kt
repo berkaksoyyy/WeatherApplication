@@ -80,6 +80,7 @@ class WeatherActivity : AppCompatActivity() {
                 }
             }
         } else {
+            viewModel.dispatch(WeatherUiAction.WeatherDataCleared(""))
             Toast.makeText(
                 this,
                 getString(R.string.permission_msg),
