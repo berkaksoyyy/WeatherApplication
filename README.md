@@ -29,6 +29,8 @@ I chose the colors of a clear sky in the application because in my opinion it cr
 
 Finally, I decided to go with Gifs rather than images while expressing current situation of the weather because I wanted app to be more dynamic. 
 
+Reminder: Keys are not in the project file and cannot be reachable right now. Please contact if you need them.
+
 
 
 
